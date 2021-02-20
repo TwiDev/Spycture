@@ -8,3 +8,4 @@ C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.csproj.CoreComp
 C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.exe
 C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.pdb
 C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.Main.resources
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.pages.Login.resources
