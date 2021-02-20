@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spycture", "Spycture\Spycture.csproj", "{FE2B1E52-2369-444E-8598-BC67D40B38FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spycture", "Spycture\Spycture.csproj", "{917D325C-DF69-4A2D-91D4-67CED9E159C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FE2B1E52-2369-444E-8598-BC67D40B38FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE2B1E52-2369-444E-8598-BC67D40B38FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE2B1E52-2369-444E-8598-BC67D40B38FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE2B1E52-2369-444E-8598-BC67D40B38FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917D325C-DF69-4A2D-91D4-67CED9E159C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917D325C-DF69-4A2D-91D4-67CED9E159C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917D325C-DF69-4A2D-91D4-67CED9E159C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917D325C-DF69-4A2D-91D4-67CED9E159C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DD790A01-0D4E-4387-87CF-830D4B97971F}
+		SolutionGuid = {97AA4DAA-AF45-4CCE-B059-6A19D3D8F8EB}
 	EndGlobalSection
 EndGlobal

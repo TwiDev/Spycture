@@ -1,0 +1,10 @@
+C:\Users\prezm\source\repos\Spycture\Spycture\bin\Debug\Spycture.exe.config
+C:\Users\prezm\source\repos\Spycture\Spycture\bin\Debug\Spycture.exe
+C:\Users\prezm\source\repos\Spycture\Spycture\bin\Debug\Spycture.pdb
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.csprojAssemblyReference.cache
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.Properties.Resources.resources
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.csproj.GenerateResource.cache
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.csproj.CoreCompileInputs.cache
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.exe
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.pdb
+C:\Users\prezm\source\repos\Spycture\Spycture\obj\Debug\Spycture.Main.resources
