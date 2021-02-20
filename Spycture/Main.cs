@@ -16,10 +16,13 @@ namespace Spycture
 
         public static Login dashboard;
 
+        public static Main instance;
+
         public Main()
         {
             InitializeComponent();
 
+            instance = this;
             dashboard = new Login();
 
             using (Login login = new Login())
@@ -34,6 +37,9 @@ namespace Spycture
 
         }
 
-       
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

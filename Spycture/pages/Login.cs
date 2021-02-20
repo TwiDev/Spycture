@@ -12,9 +12,15 @@ namespace Spycture.pages
 {
     public partial class Login : Form
     {
+
+        public static bool isLogin = false;
+
         public Login()
         {
             InitializeComponent();
+
+            this.ActiveControl = send;
+            send.Focus();
 
         }
 
@@ -28,15 +34,21 @@ namespace Spycture.pages
             String id = this.box_id.Text;
             String password = this.box_password.Text;
 
-            if (password == "1234" && id == "root")
+            if (password == "" && id == "")
             {
-                Console.WriteLine("Test");
+                isLogin = true;
                 this.Close();
             }
             else
             {
                 this.subtitle.Text = "    Erreur identifiant ou mot de passe incorrecte";
             }
+        }
+
+        private void login_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (isLogin) return;
+            System.Windows.Forms.Application.Exit();
         }
 
         private void login_KeyDown(object sender, KeyEventArgs e)
